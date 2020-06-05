@@ -5,6 +5,15 @@ This is a clean static, fast, and clean boilerplate for static sites that no nee
 Usage of LaravelMix for compiling assets.
 
 ```
+  // install
   npm i 
+  
+  // development
+  npm run dev
+  
+  // watch
   npm run watch
+
+  // production
+  npm run production
 ```
